@@ -1,0 +1,16 @@
+{
+  "name": "npscfs",
+  "version": "1.0.0",
+  "description": "a chat bot for nps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FTW.MTANOL - aka TDB",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
